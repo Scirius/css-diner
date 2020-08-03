@@ -92,7 +92,7 @@ My solutions to CSS Diner (https://flukeout.github.io/)
 `*[for^="Sa"]`
 
 ## Level 31:
-``
+`*[for$="ato"]`
 
 ## Level 32:
 `bento[for*="obb"]`
